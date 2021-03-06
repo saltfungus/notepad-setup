@@ -1,1 +1,1 @@
-open setup.txt
+open setup.exe
